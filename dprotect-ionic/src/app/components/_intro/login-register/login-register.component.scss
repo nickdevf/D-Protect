@@ -1,0 +1,95 @@
+:root {
+    --ion-backdrop-color: red;
+}
+
+.welcome {
+    // background: linear-gradient(90deg, #01C6F5 0%, #47CBAA 47.4%, #01AED7 92.71%, #0AB2D1 95.31%, #4CCBA4 100%) !important;
+    // 
+    background:#D676FF ;
+    text-shadow: -2.7px -2.7px  #FFFFFF;
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    font-family: 'Poppins', sans-serif;
+}
+.dashb-line{
+    border:1px solid white;
+    width:20%;
+}
+.welcome1 {
+    // color: rgba(255, 255, 255, 1);
+    color: #CCCFDD;
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.8;
+}
+
+.we {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.we1 {
+    background: linear-gradient(96.06deg, #4408B8 -6.33%, #E414F9 84.32%);
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.reg1 {
+    color: white !important;
+}
+
+.already {
+    font-size: 12px !important;
+    font-family: "Poppins", sans-serif;
+}
+
+.already1 {
+    background: linear-gradient(270deg, #4CCBA5 14.01%, #02C6F4 27.07%);
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.bb {
+     background: #000000;
+ 
+//     background: linear-gradient(96.06deg, #E414F9 -6.33%, #4408B8 88.05%),
+// linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+
+
+    border: 1px solid #e414f9;
+//     border: 2px solid linear-gradient(96.06deg, #E414F9 -6.33%, #4408B8 88.05%);
+
+// border-image-source: linear-gradient(96.06deg, #E414F9 -6.33%, #4408B8 88.05%);
+
+
+    box-shadow: 0px 6.38835px 9.58252px rgba(28, 28, 28, 0.06);
+    border-radius: 25.5534px;
+}
+.bdashb{
+    background: linear-gradient(96.06deg, #E414F9 -6.33%, #4408B8 88.05%);
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+border-radius: 6px 6px;
+
+}
+input {
+    border: 1px solid #01C6F4;
+    
+}
+
+.relative {
+    font-family: "Poppins", sans-serif ;
+}
+
+// .cover {
+//     background-image: url('../../../../assets/Rectangle1.png') cover;
+//     height: 100vh;
+//     width: 100vw;
+// }
